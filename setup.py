@@ -18,7 +18,7 @@ setup(
         "incremental==17.5.0",
         "joblib==0.14.0",
         "kiwisolver==1.1.0",
-        "lxml==4.4.1; python_version != '3.4'",
+        "lxml==4.6.2; python_version != '3.4'",
         "matplotlib==3.1.1",
         "mglearn==0.1.7",
         "numpy==1.17.3",
